@@ -1,8 +1,7 @@
 
-# Meesho KPI Optimization & Dashboard Automation Project
+# KPI Optimization & Dashboard Automation Project
 
-## Project Overview
-This project demonstrates comprehensive business analytics capabilities for the Meesho Business Analyst role, showcasing advanced SQL, Excel, Python, and statistical analysis skills.
+
 
 ## Key Features
 - ✅ Advanced SQL queries for business analytics
